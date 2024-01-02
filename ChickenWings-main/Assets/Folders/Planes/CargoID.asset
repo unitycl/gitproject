@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f8b0a618e0e34aaab7d40d4c5ea5f23, type: 3}
+  m_Name: CargoID
+  m_EditorClassIdentifier: 
+  speed: 6
+  speedOffset: 0.6
+  planeSinFrequency: 0.35
+  planeSinAmplitude: 0.4
+  minSpawn: -2
+  maxSpawn: 4.2
+  planeTime: 7
+  planeTimeOffset: 3
+  lives: 2
